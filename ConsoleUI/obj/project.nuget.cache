@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2ow6tzqP4+jSpRr8F81wgfCCJJFVm76wgHKBf4GUMlmAlU4GQAx192YsiMIPHh1dlp68KV7qJRWSsNVo9F0PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmet\\source\\repos\\ReCapProjec\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
